@@ -4,4 +4,4 @@ Suhosin-NG is the next generation PHP hardening project supporting PHP 7 and PHP
 
 For more information, please have a look at the [project wiki](https://github.com/sektioneins/suhosin-ng/wiki).
 
-*News:* It is 2019 and Suhosin is back! [read more](https://github.com/sektioneins/suhosin-ng/wiki/News)
+*News:* Suhosin is back! [read more](https://github.com/sektioneins/suhosin-ng/wiki/News)
